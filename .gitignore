@@ -99,8 +99,6 @@ Log/
 trash/
 temp/
 cache/
-Docs/
-docs/
 tests/
 Tests/
 *.log
@@ -149,3 +147,11 @@ test_*.*
 data/
 # 나이스 인증키(삭제 금지)
 NEIS_KEYS_JSON.json
+
+# ============================================================
+# 11. The Axis runtime data
+# ============================================================
+working/
+staging/
+archive/
+results/
