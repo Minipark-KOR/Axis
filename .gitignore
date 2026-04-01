@@ -101,6 +101,8 @@ temp/
 cache/
 Docs/
 docs/
+tests/
+Tests/
 *.log
 *.tmp
 *.temp
